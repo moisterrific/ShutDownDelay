@@ -1,0 +1,12 @@
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\obj\Debug\ShutDownDelay.csprojResolveAssemblyReference.cache
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\ShutDownDelay.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\ShutDownDelay.pdb
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\MySql.Data.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\TerrariaServer.exe
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\TShockAPI.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\HttpServer.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\bin\Debug\BCrypt.Net.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\obj\Debug\ShutDownDelay.dll
+C:\Users\sasa\Documents\Visual Studio 2013\Projects\ShutDownDelay\ShutDownDelay\obj\Debug\ShutDownDelay.pdb
