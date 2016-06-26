@@ -12,7 +12,7 @@ using Thread = System.Threading.Thread;
 
 namespace ShutDownDelay
 {
-    [ApiVersion(1, 21)]
+    [ApiVersion(1, 23)]
     public class ShutDownDelay : TerrariaPlugin
     {
         private Config config = new Config();
@@ -53,7 +53,7 @@ namespace ShutDownDelay
         {
             get
             {
-                return new Version(1, 0, 1, 0);
+                return new Version(1, 0, 3, 0);
             }
         }
 

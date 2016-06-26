@@ -1,0 +1,6 @@
+.vs/
+obj
+*.xml
+*.pdb
+*.dll
+!ShutDownDelay.dll
