@@ -1,18 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using System.Linq;
+using System.Timers;
 using Terraria;
 using TerrariaApi.Server;
 using TShockAPI;
-using Newtonsoft.Json;
-using System.Timers;
 
 namespace ShutDownDelay
 {
-    [ApiVersion(1, 23)]
+    [ApiVersion(1, 25)]
     public class ShutDownDelay : TerrariaPlugin
     {
         private Config config = new Config();
