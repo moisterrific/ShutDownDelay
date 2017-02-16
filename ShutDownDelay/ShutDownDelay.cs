@@ -8,7 +8,7 @@ using TShockAPI;
 
 namespace ShutDownDelay
 {
-    [ApiVersion(1, 25)]
+    [ApiVersion(2, 0)]
     public class ShutDownDelay : TerrariaPlugin
     {
         private Config config = new Config();
@@ -25,7 +25,7 @@ namespace ShutDownDelay
         {
             get
             {
-                return "Professor X";
+                return "Professor X, Enerdy";
             }
         }
 
