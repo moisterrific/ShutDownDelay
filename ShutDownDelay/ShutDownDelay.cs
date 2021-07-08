@@ -8,7 +8,7 @@ using TShockAPI;
 
 namespace ShutDownDelay
 {
-    [ApiVersion(2, 0)]
+    [ApiVersion(2, 1)]
     public class ShutDownDelay : TerrariaPlugin
     {
         private Config config = new Config();
@@ -110,7 +110,7 @@ namespace ShutDownDelay
         {
             if (args.Parameters.Count < 1)
             {
-                args.Player.SendErrorMessage("Invalid syntax! Proper syntax: {0}sddelay <start/pause/continue/cancel/reload>", TShock.Config.CommandSpecifier);
+                args.Player.SendErrorMessage("Invalid syntax! Proper syntax: {0}sddelay <start/pause/continue/cancel/reload>", TShock.Config.Settings.CommandSpecifier);
                 return;
             }
 
